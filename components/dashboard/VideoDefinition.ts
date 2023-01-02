@@ -18,6 +18,7 @@ export interface Item {
   etag: string;
   id: ID;
   snippet: Snippet;
+  statistics: Statistics;
 }
 
 export interface ID {
@@ -34,6 +35,14 @@ export interface Snippet {
   channelTitle: string;
   liveBroadcastContent: string;
   publishTime: Date;
+  tags: String[];
+}
+
+export interface Statistics {
+  viewCount: number;
+  likeCount: number;
+  favoriteCount: number;
+  commentCount: number;
 }
 
 export interface Thumbnails {
