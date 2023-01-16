@@ -1,0 +1,71 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "k7sV_IEcHCJ8fPCGMDlNxamPaWQ",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "AJXRcAHQjqz1YzN2rBpBSVzfXSY",
+            "id": "UijW0hZ6evI",
+            "snippet": {
+                "publishedAt": "2022-10-12T16:40:22Z",
+                "channelId": "UCd2CBMSZfehum13I_SLM9AQ",
+                "title": "Why Smartphone Companies Hate Small Phone?",
+                "description": "Giveaway 🎁:\n1️⃣. Download CashKaro: https://cashk.app.link/tdsQrBHX3tb\n2️⃣. Code - RAI25(to get ₹25 bonus instantly)\n3️⃣. Make sure to do purchase anything via CashKaro.\nAapka kaam khtm (Giveaway Ends - 23 Oct 2022)\n\n****\nIn this video, I will talk about :\n1. Why are our cuties' small/mini/compact smartphones dying like the iPhone 13 mini-series etc. & how are big phones taking centre stage?\n2.  Also, dusra nazariya towards how they are coming (but not like in the present form).\n\nWhy Smartphone Brands STOPPED Making these Phones in 2022?\n****\n\n✏️ Current Sub Count: 82,050\n🤝 Follow Me (instant khushi hogi mujhe 😊)\n\n🐦 Twitter -https://twitter.com/iBhaveshrai\n📸 Instagram - https://www.instagram.com/iBhaveshrai\n🌐 Facebook - nobody cares",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UijW0hZ6evI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UijW0hZ6evI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UijW0hZ6evI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UijW0hZ6evI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UijW0hZ6evI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bhavesh Rai",
+                "tags": [
+                    "iphone 12 mini",
+                    "iphone 13 mini",
+                    "samsung s22",
+                    "asus 9z",
+                    "small smartphone",
+                    "iphone",
+                    "android",
+                    "iphone 14 mini"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Why Smartphone Companies Hate Small Phone?",
+                    "description": "Giveaway 🎁:\n1️⃣. Download CashKaro: https://cashk.app.link/tdsQrBHX3tb\n2️⃣. Code - RAI25(to get ₹25 bonus instantly)\n3️⃣. Make sure to do purchase anything via CashKaro.\nAapka kaam khtm (Giveaway Ends - 23 Oct 2022)\n\n****\nIn this video, I will talk about :\n1. Why are our cuties' small/mini/compact smartphones dying like the iPhone 13 mini-series etc. & how are big phones taking centre stage?\n2.  Also, dusra nazariya towards how they are coming (but not like in the present form).\n\nWhy Smartphone Brands STOPPED Making these Phones in 2022?\n****\n\n✏️ Current Sub Count: 82,050\n🤝 Follow Me (instant khushi hogi mujhe 😊)\n\n🐦 Twitter -https://twitter.com/iBhaveshrai\n📸 Instagram - https://www.instagram.com/iBhaveshrai\n🌐 Facebook - nobody cares"
+                }
+            },
+            "statistics": {
+                "viewCount": "91963",
+                "likeCount": "6737",
+                "favoriteCount": "0",
+                "commentCount": "566"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}

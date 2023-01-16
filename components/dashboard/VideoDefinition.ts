@@ -1,14 +1,30 @@
 export interface ItemDetails {
-  publisedAt: String;
-  imgUrl: String;
-  title: String;
-  Description: String;
+  publisedAt: Date;
+  imgUrl: string;
+  title: string;
+  Description: string;
+  likeCount: number;
+  commentCount: number;
+  favoriteCount: number;
+  viewCount: number;
+  videoId: string;
+  duration: string;
+  videoType: VideoType;
+  videoDurationSec: number;
+}
+
+export enum VideoType {
+  short = "SHORTS",
+  standard = "STANDARD",
+  all = "ALL",
 }
 
 export interface Welcome {
   kind: string;
   etag: string;
   regionCode: string;
+  prevPageToken: string;
+  nextPageToken: string;
   pageInfo: PageInfo;
   items: Item[];
 }
@@ -19,6 +35,7 @@ export interface Item {
   id: ID;
   snippet: Snippet;
   statistics: Statistics;
+  contentDetails: ContentDetails;
 }
 
 export interface ID {
@@ -38,6 +55,10 @@ export interface Snippet {
   tags: String[];
 }
 
+export interface ContentDetails {
+  duration: string;
+}
+
 export interface Statistics {
   viewCount: number;
   likeCount: number;
@@ -49,6 +70,8 @@ export interface Thumbnails {
   default: Default;
   medium: Default;
   high: Default;
+  standard: Default;
+  maxres: Default;
 }
 
 export interface Default {
